@@ -3,7 +3,7 @@
 - 👀 I’m interested in Artificial intelligence.
 - 🌱 I’m currently learning Backend Development.
 - 📫 How to reach me:-
-  Email:- dr.sabine.kng@protonmail.com
+  Email:- dr.sabine.kng@pm.me
 - 👨‍💻 I primarily code in C.
 - 💻 I can also code in C++, Python.
 
