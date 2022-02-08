@@ -4,17 +4,26 @@
 - 🌱 I’m currently learning Backend Development(C/C++).
 - 🏬 Working at int main(void)
 
-![image](https://user-images.githubusercontent.com/96158726/152917936-ee394ffd-6c83-49ac-97be-4dcdeed8373d.png)
+![image](https://user-images.githubusercontent.com/96158726/152921175-067b5936-08fc-4ba5-be67-7c8c167a1227.png)
 
-![icons8-linkedin-48](https://user-images.githubusercontent.com/96158726/152918741-9bfc6021-3272-4136-a4b7-ba80b8e2b84b.png)
-www.linkedin.com/in/yuvraj-singh-chauhan-2bb213230
+![image](https://user-images.githubusercontent.com/96158726/152920469-d00b916f-60e6-46a1-9c60-bda4858599e8.png)
 
-![icons8-email-open-48](https://user-images.githubusercontent.com/96158726/152918636-1ebf9dfa-1129-4c3a-86e3-600a255d97da.png)
-dr.sabine.kng@m.me
+![image](https://user-images.githubusercontent.com/96158726/152920654-51b3e178-ee3e-490f-894b-b795268ee234.png)
 
-![image](https://user-images.githubusercontent.com/96158726/152919684-33a1a2da-6cb1-4a81-9136-de31c548d6a9.png)
-
-<!---
-Sabine91/Sabine91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![image](https://user-images.githubusercontent.com/96158726/152921674-167da391-ac5a-42b8-892c-b45edbc7f434.png)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="90" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="90" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="90" height="250"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="90" height="250"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="90" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="90" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="90" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" width="90" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="90" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="90" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="90" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="90" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="90" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="90" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="90" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="90" height="250" />
