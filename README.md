@@ -25,7 +25,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="250" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60" height="250" />
 
-
 ![Sabine91's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabine91&show_icons=true&theme=moltack) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sabine91&repo=Login_Interface&show_owner=true&include_all_commits=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
