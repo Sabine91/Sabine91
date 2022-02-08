@@ -18,11 +18,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="90" height="250" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="90" height="250" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="90" height="250" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="90" height="250" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="90" height="250"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90" height="250" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="90" height="250"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="90" height="250" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="90" height="250" />
