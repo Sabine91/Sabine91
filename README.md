@@ -11,6 +11,7 @@
 ![image](https://user-images.githubusercontent.com/96158726/170554169-f67cd2f5-6254-4da8-8809-7707d8ca9324.png)
 
 ![image](https://user-images.githubusercontent.com/96158726/152921674-167da391-ac5a-42b8-892c-b45edbc7f434.png)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="250" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="60" height="250"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="250"/>
@@ -24,5 +25,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60" height="250"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="250" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60" height="250" />
-![Sabine91's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabine91&show_icons=true&theme=moltack) 
 
+![Sabine91's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabine91&show_icons=true&theme=moltack) 
